@@ -1,1 +1,1 @@
-# TechLaw-HEC-MIT-A-O
+# TechLaw-HEC-SJFI
