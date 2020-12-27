@@ -53,6 +53,7 @@ Suggested Reading
 •	Andy Neill, What’s Artificial About Ethical AI In The Legal Industry? Everything, Above the law blog. https://abovethelaw.com/legal-innovation-center/2018/10/25/whats-artificial-about-ethical-ai-in-the-legal-industry-everything/?rf=1
 •	Janine Cerny Steve Delchin Huu Nguyen, Legal Ethics in the Use of Arftificial Intelligence, Squirepattonboggs https://www.squirepattonboggs.com/-/media/files/insights/publications/2019/02/legal-ethics-in-the-use-of-artificial-intelligence/legalethics_feb2019.pdf
 •	
+
 SESSION 6 – REGULATORY FRAMEWORKS FOR AI LAW (JANUARY 28, 2021, 9.00 AM)
 This session looks into the multiple regulatory initiatives from the public and private sector to frame the use of AI. More particularly, it sketches out the risk approach and the sociological background supporting most of current approaches to AI regulation. It also highlights generally strategies to hold algorithms accountable from an IT (auditing, statistic and dynamic testing, circuit breakers, scalability, etc.) and managerial perspective (ethics codes, CSR, etc.). The second, part of this session is dedicated to a Q&A related to the case study. Students can test their final hypothesis and discuss with the course instructor the preparatory work for the presentation of the results.  
 
