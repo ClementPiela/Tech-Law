@@ -9,8 +9,8 @@ This session provides a general overview of the technological transformation und
 
 Compulsory Readings 
 
-•	David Restrepo Amariles & G. Lewkowicz, Unpacking Smart Law: How Mathematics and Algorithms are Reshaping the Legal Code in the Financial Sector, Lex Electronica, vol. 25, n° 3, pp 171-185, 2020. 
-•	Alex Pentland, A Perspective on Legal Algorithms, MIT Computational Law Report (2019)
+•	David Restrepo Amariles & G. Lewkowicz, Unpacking Smart Law: How Mathematics and Algorithms are Reshaping the Legal Code in the Financial Sector, Lex Electronica, vol. 25, n° 3, pp 171-185, 2020. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3754007
+•	Alex Pentland, A Perspective on Legal Algorithms, MIT Computational Law Report (2019) https://law.mit.edu/pub/aperspectiveonlegalalgorithms/release/3
 
 Suggested Reading 
 
@@ -23,16 +23,14 @@ The first part of this session focuses on legal metrics, including indicators, i
 
 Compulsory Reading
 
-•	David Restrepo Amariles and Julian McLachlan, Legal Indicators in Transnational Law Practice: A Methodological Assessment, 58 (2) Jurimetrics 164 (2018). Available at SSRN
-•	Paul Boniol, George Panagopoulos, Christos Xypolopoulos, Rajaa El Ham- dani, David Restrepo Amariles, and Michalis Vazirgiannis. 2020. Performance in the Courtroom: Automated Processing and Visualization of Appeal Court Decisions in France. In Proceedings of the 2020 Natural Legal Language Processing (NLLP) with KDD Workshop, 24 August 2020. Available here 
+•	David Restrepo Amariles and Julian McLachlan, Legal Indicators in Transnational Law Practice: A Methodological Assessment, 58 (2) Jurimetrics 164 (2018). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753523
+•	Paul Boniol, George Panagopoulos, Christos Xypolopoulos, Rajaa El Ham- dani, David Restrepo Amariles, and Michalis Vazirgiannis. 2020. Performance in the Courtroom: Automated Processing and Visualization of Appeal Court Decisions in France. In Proceedings of the 2020 Natural Legal Language Processing (NLLP) with KDD Workshop, 24 August 2020. http://ceur-ws.org/Vol-2645/paper2.pdf
 
 Suggested Reading
 
-•	Erika R. George and David Restrepo Amariles, Ranking for Good? A Comparative Assessment of the Performance of French Corporations in Human Rights Rankings, 53 (1) The International Lawyer 21 (2020). Available at SSRR
+•	Erika R. George and David Restrepo Amariles, Ranking for Good? A Comparative Assessment of the Performance of French Corporations in Human Rights Rankings, 53 (1) The International Lawyer 21 (2020). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753544
 •	Sean Cao, Wei Jiang, Baozhong Yang, Alan L. Zhang, How to Talk When A Machine is Listening: Corporate Disclosure in the Age of AI, National Bureau of Economics Working Paper Series (2020)
-•	Allen and Overy Global Litigation Survey
-
-
+•	Allen and Overy Global Litigation Survey https://drive.google.com/file/d/1a3M0IMR382Uusmfj8pgVWSNx4q5GBFLk/view
 
 
 SESSION 3 - AI AND ETHICS – IN COLLABORATION WITH A&O (JANUARY 11, 2021, 2.30 PM)
@@ -45,21 +43,21 @@ OPTIONAL SESSION –MIT COMPUTATIONAL LAW COURSE (JANUARY 15, 2021, 6.00 -7.00PM
 WITH DAZZA GREENWOOD, Lecturer and Researcher, MIT Connection Science and MIT Media Lab and Executive Director, Law.MIT.edu".
 
 Registration is compulsory https://docs.google.com/forms/d/e/1FAIpQLSeHXAp9vCb0uzvYFpJolI2LlkKJtdCReLI4F1TVJGgicqBxpA/viewform
-
+Material for the MIT Computational Law Course https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course
 
 SESSION 5 – AI AND LEGAL ADVICE LAW - IN COLLABORATION WITH A&O (JANUARY 26, 2021, 9.00 AM)
 This session will focus on the background for providing legal advice under the relevant bar rules and their interaction with technology and AI. There are obvious limits to what formulaic and logical programmes can achieve without a lawyer intervention. The objective would be to identify and address the issues relating to the use of AI in providing legal advice including through attorney-client privilege and legal opinions. 
 
 Suggested Reading 
 
-•	Andy Neill, What’s Artificial About Ethical AI In The Legal Industry? Everything, Above the law blog.
-•	Janine Cerny Steve Delchin Huu Nguyen, Legal Ethics in the Use of Arftificial Intelligence, Squirepattonboggs
+•	Andy Neill, What’s Artificial About Ethical AI In The Legal Industry? Everything, Above the law blog. https://abovethelaw.com/legal-innovation-center/2018/10/25/whats-artificial-about-ethical-ai-in-the-legal-industry-everything/?rf=1
+•	Janine Cerny Steve Delchin Huu Nguyen, Legal Ethics in the Use of Arftificial Intelligence, Squirepattonboggs https://www.squirepattonboggs.com/-/media/files/insights/publications/2019/02/legal-ethics-in-the-use-of-artificial-intelligence/legalethics_feb2019.pdf
 •	
 SESSION 6 – REGULATORY FRAMEWORKS FOR AI LAW (JANUARY 28, 2021, 9.00 AM)
 This session looks into the multiple regulatory initiatives from the public and private sector to frame the use of AI. More particularly, it sketches out the risk approach and the sociological background supporting most of current approaches to AI regulation. It also highlights generally strategies to hold algorithms accountable from an IT (auditing, statistic and dynamic testing, circuit breakers, scalability, etc.) and managerial perspective (ethics codes, CSR, etc.). The second, part of this session is dedicated to a Q&A related to the case study. Students can test their final hypothesis and discuss with the course instructor the preparatory work for the presentation of the results.  
 
 Suggested Reading
 
-•	Joseph, M., Kearns, M., Morgenstern, J., Neel, S., & Roth, A., Fair Algorithms for Infinite and Contextual Bandits, arXiv:1610.09559 
-•	Berk Ustun, Alexander Spangher, Yang Liu, Actionable Recourse in Linear Classification, arXiv:1809.06514
+•	Joseph, M., Kearns, M., Morgenstern, J., Neel, S., & Roth, A., Fair Algorithms for Infinite and Contextual Bandits, https://arxiv.org/abs/1610.09559
+•	Berk Ustun, Alexander Spangher, Yang Liu, Actionable Recourse in Linear Classification, https://arxiv.org/abs/1809.06514
 
