@@ -8,10 +8,12 @@ SESSION 1 – INTRODUCTORY SESSION: AI AND THE LAW (JANUARY 4, 2021, 2.30 PM)
 This session provides a general overview of the technological transformation underway in our society and economy, its instruments, and its effects on legal processes and the legal profession. It includes a guest talk by Dazza Greenwood (MIT Computational Law) and an open discussion with Prof. David Restrepo Amariles. It will flesh out basic notions of computational law (e.g. internet of things, automation and computation, etc.) and technologies supporting digital transformation (data analytics, symbolic AI, machine learning). Based on several examples, we discuss how technology affects the content of legal norms, their life cycle and their enforcement. Finally, we reflect about the role of law-trained professionals in both engineering and framing the use of these multiple technologies. This session includes an introduction to the use of Github. 
 
 Compulsory Readings 
+
 •	David Restrepo Amariles & G. Lewkowicz, Unpacking Smart Law: How Mathematics and Algorithms are Reshaping the Legal Code in the Financial Sector, Lex Electronica, vol. 25, n° 3, pp 171-185, 2020. Available at SSRN. 
 •	Alex Pentland, A Perspective on Legal Algorithms, MIT Computational Law Report (2019), available here
 
 Suggested Reading 
+
 •	David Restrepo Amariles, Algorithmic decisions systems: Using Automation and Machine Learning in the public administration, in Cambridge Handbook of Law and Algorithms (W. Barfield, ed., Cambridge University Press, forthcoming 2020). 
 •	David Freeman Engstrom, Daniel E. Ho, Catherine M. Sharkey, Mariano-Florentino Cuellar, Government by Algorithm: Artificial Intelligence in Federal Administrative Agencies, Report Submitted to the Administrative Conference of the United States (2020)
 
