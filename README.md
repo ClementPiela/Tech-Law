@@ -4,7 +4,7 @@ Our society is undergoing one of the most radical transformations of recent time
 
 # Dates and Zoom information 
 
-**Session 1** - Monday January 4, 2.30pm-5.30pm, Guest talk by Dazza Greenwood (MIT Computational Law)
+**Session 1** - Monday January 4, 2.30pm-5.30pm, Guest talk by [Dazza Greenwood](https://web.media.mit.edu/~dang/) (Lecturer and Fellow MIT Computational Law)
 
 **Session 2** - Tuesday, January 5, 9am-12pm
 
@@ -12,7 +12,7 @@ Our society is undergoing one of the most radical transformations of recent time
 
 **Session 4** - Tuesday, January 12, 9am-12pm (co-hosted with A&O)- [Julien Sebastien](https://www.allenovery.com/en-gb/global/people/Julien_Sebastien) and [Laurie-Anne Ancenys](https://www.allenovery.com/en-gb/global/people/Laurie-Anne_Ancenys)
 
-**Optional Session** - January 15, 6pm-7pm (hosted by Dazza Greenwood, [Computational Law Course](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course)) 
+**Optional Session** - January 15, 6pm-7pm (hosted by Dazza Greenwood, [MIT Computational Law Course](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course)) 
 
 Registration is mandatory and [available here](https://docs.google.com/forms/d/e/1FAIpQLSeHXAp9vCb0uzvYFpJolI2LlkKJtdCReLI4F1TVJGgicqBxpA/viewform)
 
