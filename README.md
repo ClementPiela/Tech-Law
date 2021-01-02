@@ -12,6 +12,7 @@ Session 3 - Monday, January 11, 2.30pm-5.30pm (hosted by A&O)
 Session 4 - Tuesday, January 12, 9am-12pm (hosted by A&O)
 
 Optional Session - January 15, 6pm-7pm (hosted by Dazza Greenwood, [Computational Law Course](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course)) 
+
 Registration is mandatory and [available here](https://docs.google.com/forms/d/e/1FAIpQLSeHXAp9vCb0uzvYFpJolI2LlkKJtdCReLI4F1TVJGgicqBxpA/viewform)
 
 Session 5 - Tuesday, January 26, 9am-12pm (hosted by A&O)
