@@ -1,7 +1,3 @@
-# TechLaw-HEC-SJFI
-Our society is undergoing one of the most radical transformations of recent times as a consequence of technological innovation and the implementation of tech-based tools in diverse areas of our society and our economy. Legal actors and legal processes are not immune to these transformations. The course of TechLaw at HEC Paris is run in collaboration with Allen & Overy. It explores the technologies underpinning the shift towards computational and data-driven law, such as artificial intelligence, the Internet of Things, smart contracts and distributed ledgers, as well as the legal mechanisms framing them ethics codes and technical standards. 
-The course provides a hands-on and pragmatic approach to understand the potential and constraints of using technologies in law through a case study conducted in collaboration with Allen & Overy where students will contribute to design legal metrics in the area of corporate governance. 
-
 # PROGRAMME AND READING MATERIAL
 
 **SESSION 1 – INTRODUCTORY SESSION: AI AND THE LAW (JANUARY 4, 2021, 2.30 PM)**
