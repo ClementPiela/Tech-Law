@@ -12,7 +12,7 @@ Our society is undergoing one of the most radical transformations of recent time
 
 **Session 4** - Tuesday, January 12, 9am-12pm (co-hosted with A&O)- [Julien Sebastien](https://www.allenovery.com/en-gb/global/people/Julien_Sebastien) and [Laurie-Anne Ancenys](https://www.allenovery.com/en-gb/global/people/Laurie-Anne_Ancenys)
 
-*Optional Session* - January 15, 6pm-7pm (hosted by Dazza Greenwood, [Computational Law Course](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course)) 
+**Optional Session** - January 15, 6pm-7pm (hosted by Dazza Greenwood, [Computational Law Course](https://github.com/mitmedialab/2021-MIT-IAP-Computational-Law-Course)) 
 
 Registration is mandatory and [available here](https://docs.google.com/forms/d/e/1FAIpQLSeHXAp9vCb0uzvYFpJolI2LlkKJtdCReLI4F1TVJGgicqBxpA/viewform)
 
@@ -20,7 +20,7 @@ Registration is mandatory and [available here](https://docs.google.com/forms/d/e
 
 **Session 6** - Thrusday, January 28, 9am-12pm
 
-*Zoom link and information for all the sessions*
+**Zoom link and information for all the sessions**
 
 https://hec-fr.zoom.us/j/99585815696?pwd=TURGemdlbkthMWNhK292TnhwRWZoZz09
 Meeting ID: 995 8581 5696
