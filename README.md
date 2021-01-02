@@ -15,7 +15,10 @@ Session 5 - Tuesday, January 26, 9am-12pm (hosted by A&O)
 
 Session 6 - Thrusday, January 28, 9am-12pm
 
-The zoom link and information for all the session is:
+The zoom link and information for all the session:
+
 https://hec-fr.zoom.us/j/99585815696?pwd=TURGemdlbkthMWNhK292TnhwRWZoZz09
+
 Meeting ID: 995 8581 5696
+
 Passcode: 8j229p
