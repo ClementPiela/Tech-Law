@@ -4,10 +4,15 @@ Our society is undergoing one of the most radical transformations of recent time
 # Session Links
 
 Session 1 - Monday January 4, 2.30pm-5.30pm
+
 Session 2 - Tuesday, January 5, 9am-12pm
+
 Session 3 - Monday, January 11, 2.30pm-5.30pm (hosted by A&O)
+
 Session 4 - Tuesday, January 12, 9am-12pm (hosted by A&O)
+
 Session 5 - Tuesday, January 26, 9am-12pm (hosted by A&O)
+
 Session 6 - Thrusday, January 28, 9am-12pm
 
 The zoom link and information for all the session is:
