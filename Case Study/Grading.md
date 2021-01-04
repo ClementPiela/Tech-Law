@@ -1,4 +1,4 @@
-#Case study submissions
+# Case Study Submissions 
 
 **Submission 1: Spreadsheet and Methodological Note (50%)**
 Excel sheet with (1) disaggregated data collection (sub-variables/proxies) (e.g., website or type of document); and (2) consolidated index.
