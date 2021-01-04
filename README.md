@@ -20,4 +20,4 @@ Registration is mandatory and [available here](https://docs.google.com/forms/d/e
 
 **Session 6** - Thrusday, January 28, 9am-12pm
 
-
+**submission 1 of case study** - Monday, February 1, midnight
