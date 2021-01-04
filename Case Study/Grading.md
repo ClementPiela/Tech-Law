@@ -3,7 +3,7 @@
 **Submission 1: Spreadsheet and Methodological Note (50%)**
 Excel sheet with (1) disaggregated data collection (sub-variables/proxies) (e.g., website or type of document); and (2) consolidated index.
 Methodological note (3-5 pages) explaining (1) regulatory framework and (2) data collection sources and methodology. 
-Deadline for 
+*Deadline is February 1, midnight* 
 
 **Submission 2: Slide deck and Presentation (50%)**
 Slide deck (10-15 slides) with an explanation of the process and results.
